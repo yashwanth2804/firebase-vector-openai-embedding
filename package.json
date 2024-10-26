@@ -1,0 +1,19 @@
+{
+  "name": "firebase-vector-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kambaalayashwanth@outlook.com",
+  "license": "ISC",
+  "description": "Firestore Vector Search Demo",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.10.0",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.7.0",
+    "openai": "^4.68.4"
+  }
+}
