@@ -1,4 +1,4 @@
-# Firebase Vector Search Demo
+# Firebase Vector Search Demo With OPENAI Embedding
 
 This project demonstrates vector search functionality using Firebase Firestore and OpenAI's text embeddings. It allows storing and querying vector embeddings for semantic similarity search.
 
